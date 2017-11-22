@@ -1,7 +1,7 @@
 # testproject1
 test project 1
 
-create simple hello world to push back and forth between chris and zach to practie git.
+create simple hello world to push back and forth between chris and zach to practice git.
 
 Sprint 1
 Create Hello World 
